@@ -1,15 +1,5 @@
 {
-    "name": "jbonner.engineer",
-    "version": "1.0.0",
-    "scripts": {
-      "build": "remix build",
-      "start": "remix-serve build",
-      "dev": "remix dev"
-    },
-    "dependencies": {
-      "remix": "^1.0.0",
-      "react": "^17.0.2",
-      "react-dom": "^17.0.2"
-    }
+  "dependencies": {
+    "remix": "^2.10.3"
   }
-  
+}
