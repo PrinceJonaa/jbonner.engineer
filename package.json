@@ -1,4 +1,11 @@
 {
+  "name": "jbonner.engineer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "remix build"
+  },
   "dependencies": {
     "remix": "^2.10.3"
   }
